@@ -1,1 +1,2 @@
 prueba git status
+prueba fase 2
