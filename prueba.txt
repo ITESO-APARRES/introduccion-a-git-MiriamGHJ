@@ -1,3 +1,4 @@
 prueba git status
 prueba fase 2
 Cambio 1 
+Cambio 2
